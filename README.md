@@ -1,3 +1,1 @@
-# static-html-template
-
-Use this template to create static HTML websites and deploy them on Render.
+DEVIN GIBBS MASON'S LINK IN BIO SHOWCASING DIFFERENT POINTS OF INTERESTS AROUND THE INTERNET
